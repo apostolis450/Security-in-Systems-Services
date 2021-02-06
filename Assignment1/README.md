@@ -1,5 +1,4 @@
-# Systems&Services_Security
-##### [Projects for the purposes of this course (fall semester 2020-2021) ]
+# Assignment 1 - Simple cryptographic algorithms
 ###
 In this assignment I had to implement a simple cryptographic library that provides
 implementation for the following cryptographic algorithms.
