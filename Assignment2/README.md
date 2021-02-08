@@ -3,8 +3,8 @@
 Author : Zacharopoulos Apostolos  
 Date   : 15/11/2020
 ##
-1.  For the first part of this assignment I had to interfere in fopen function
-so I can collect the requested data. **actionsLogger** function serves the
+1.  For the first part of this assignment I had to interfere in **fopen** function
+so I can collect the requested data._logger.so_ library is created and we preload  it to achieve our goal.  **actionsLogger** function serves the
 functionality of keeping the record and write it into logfile.
 Data collected:  **userID, date & time of action, users permissions (using errno.h lib)**
 Same thing for everyone calling the fwrite function.
