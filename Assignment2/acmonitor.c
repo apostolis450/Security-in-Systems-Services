@@ -371,14 +371,6 @@ main(int argc, char *argv[])
 
 	}
 
-
-	/* add your code here */
-	/* ... */
-	/* ... */
-	/* ... */
-	/* ... */
-
-
 	fclose(log);
 	argc -= optind;
 	argv += optind;	
