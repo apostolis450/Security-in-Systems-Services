@@ -6,7 +6,9 @@ Folder should contain 4 files.
 1. simple_crypto.h header file which contains functions declaration of the library 
 2. simple_crypto.c which contains the implementation of these functions
 3. demo.c which contains the main function and make the calls to the library functions
-4. Makefile
+4. Makefile <br>
+**Run**  
+```Just run make```
 *   simple_crypto.h
 Macro MAX_INPUT_LENGTH is an arbitrary number user for char array initialization.
 *   simple_crypto.c :

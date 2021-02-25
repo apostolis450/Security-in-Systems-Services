@@ -19,4 +19,9 @@ Implements the monitoring tools .
 **logger.c**  
 This is where fopen and fwrite are bypassed and logs are created.  
 **test_aclog.c**  
-This file contains some testing.
+This file contains some testing.<br>
+**Run**  
+1.  
+   ```make run```  
+2.  
+   ```make monitor```
